@@ -1,0 +1,18 @@
+{
+  "name": "TechForJob-UI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jongsoobae/TechForJob-UI.git",
+  "author": "jongsoobae <ocpek@nate.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "@types/next": "^7.0.5",
+    "axios": "^0.18.0",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
